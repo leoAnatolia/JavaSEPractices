@@ -2,23 +2,7 @@ package consoleinput;
 
 import java.util.Scanner;
 
-/*
- * This program takes from standart console count of an array.
- * 
- * Afterwards, an array of integers having even difference but one number is missing 
- * from the array. Missing number is automatically found by the program.
- * 
- * Enter something here:
- * 4
- * 1 3 7 9
- * 
- * evenDiff:2
- * Answer:5
- * 
- * 
- * 
- */
-public class GetInputFromConsole {
+public class CopyOfGetInputFromConsole {
 	
 	public static void main(String[] args) {
 		
